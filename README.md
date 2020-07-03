@@ -1,11 +1,12 @@
 ### Hello There
+## visite my website [ziyang.dev](https://ziyang.dev)
 
-- I am working on a basic CRUD todo list web application with the MERN stack
-- I am learning discrete mathematics and C++
-- I am practicing competitive programming on leetcode.com and kattis.org
-- I am looking to collaborate on MERN stack projects
-- I am looking for help with the math part of computer science
-- Ask me about competitive programming
+- I am currently working on a basic CRUD todo list web application with the MERN stack
+- ~~~~~~~~~~~~~~ learning discrete mathematics and C++
+- ~~~~~~~~~~~~~~ practicing competitive programming on leetcode.com and kattis.org
+- ~~~~~~~~~~~~~~ looking to collaborate on MERN stack projects
+- ~~~~~~~~~~~~~~ looking for help with the math part of computer science
+- Ask me anything!
 
 ### Contact me
 
