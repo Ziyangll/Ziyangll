@@ -9,6 +9,6 @@
 
 ### Contact me
 
-- [email](mailto:ziyangli103@gmail.com) ziyangli103@gmail.com
+- email ziyangli103@gmail.com
 - [linkedin](https://www.linkedin.com/in/ziyangg/)
 - [twitter](https://twitter.com/ziyangdev) @ziyangdev
