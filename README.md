@@ -1,5 +1,6 @@
 # Hello There
-### visite my website [ziyang.dev](https://ziyang.dev)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=success&up_message=online&url=https%3A%2F%2Fziyang.dev)](https://ziyang.dev)
+### my website [ziyang.dev](https://ziyang.dev)
 
 -     I am currently working on a basic CRUD todo list web application with the MERN stack
 -                    learning discrete mathematics and C++
