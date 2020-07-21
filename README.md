@@ -1,6 +1,6 @@
 # Hello There!
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=success&up_message=online&url=https%3A%2F%2Fziyang.dev)](https://ziyang.dev)
-[stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/10630795?color=blue)
+![stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/10630795?color=blue)
 ### My name is Ziyang Li
 
 - I am currently working on a basic CRUD todo list web application with the MERN stack
