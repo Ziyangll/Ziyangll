@@ -3,7 +3,7 @@
 [![twitter](https://img.shields.io/badge/twitter-%40ziyangdev-blue?style=social&logo=twitter)](https://twitter.com/ziyangdev)
 ### My name is Ziyang Li
 
-- I am currently working on a basic CRUD todo list web application with the MERN stack
+### I am currently:
 - learning discrete mathematics and C++
 - practicing competitive programming on leetcode.com and kattis.org
 - looking to collaborate on MERN stack projects
