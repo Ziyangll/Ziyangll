@@ -8,7 +8,6 @@
 - practicing competitive programming on leetcode.com and kattis.org
 - looking to collaborate on MERN stack projects
 - looking for help with the math part of computer science
-- Ask me anything!
 
 ### Contact me
 
