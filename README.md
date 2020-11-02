@@ -7,7 +7,7 @@
 - learning discrete mathematics and C++
 - practicing competitive programming on leetcode.com and kattis.org
 - looking to collaborate on MERN stack projects
-- looking for help with the math part of computer science
+- looking for help with Rust
 
 ### Contact me
 - ziyangli103@gmail.com
