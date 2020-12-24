@@ -4,10 +4,10 @@
 ### My name is Ziyang Li
 
 ### I am currently:
-- learning discrete mathematics and C++
-- practicing competitive programming on leetcode.com and kattis.org
-- looking to collaborate on MERN stack projects
-- looking for help with Rust
+- leetcoding
+- learning Rust lang
+- learning about ray tracing
+
 
 ### Contact me
 - ziyangli103@gmail.com
