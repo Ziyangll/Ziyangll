@@ -3,13 +3,13 @@
 [![twitter](https://img.shields.io/badge/twitter-%40ziyangdev-blue?style=social&logo=twitter)](https://twitter.com/ziyangdev)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 437 Contributions in the Year 2020
+> 🏆 441 Contributions in the Year 2020
  > 
-> 📦 42.5 kB Used in Github's Storage 
+> 📦 42.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
