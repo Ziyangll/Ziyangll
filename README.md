@@ -77,7 +77,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### Contact me
+**Connect with me**
 - ziyangli103@gmail.com
 - [linkedin](https://www.linkedin.com/in/ziyangg/)
 - [twitter](https://twitter.com/ziyangdev) @ziyangdev
