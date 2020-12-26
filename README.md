@@ -1,7 +1,6 @@
-# Hello There!
+# My name is Ziyang Li
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=success&up_message=online&url=https%3A%2F%2Fziyang.dev)](https://ziyang.dev)
 [![twitter](https://img.shields.io/badge/twitter-%40ziyangdev-blue?style=social&logo=twitter)](https://twitter.com/ziyangdev)
-### My name is Ziyang Li
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
