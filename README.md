@@ -3,11 +3,8 @@
 [![twitter](https://img.shields.io/badge/twitter-%40ziyangdev-blue?style=social&logo=twitter)](https://twitter.com/ziyangdev)
 ### My name is Ziyang Li
 
-### I am currently:
-- leetcoding
-- learning Rust lang
-- learning about ray tracing
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Contact me
 - ziyangli103@gmail.com
