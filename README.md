@@ -7,7 +7,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 96 Contributions in the Year 2021
+> 🏆 97 Contributions in the Year 2021
  > 
 > 📦 84.3 kB Used in Github's Storage 
  > 
@@ -72,7 +72,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2021
+ Last Updated on 16/08/2021
 <!--END_SECTION:waka-->
 
 **Connect with me**
