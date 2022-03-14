@@ -3,7 +3,7 @@
 [![twitter](https://img.shields.io/badge/twitter-%40ziyangdev-blue?style=social&logo=twitter)](https://twitter.com/ziyangdev)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,16 +46,16 @@ Sunday       44 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Text                     38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -72,7 +72,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2022 01:09:00 UTC
+ Last Updated on 14/03/2022 01:09:47 UTC
 <!--END_SECTION:waka-->
 
 **Connect with me**
