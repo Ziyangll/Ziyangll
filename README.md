@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -15,9 +15,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 1 Private Repository 
  > 
 **I'm a Night 🦉** 
 
@@ -74,7 +74,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2022 01:52:45 UTC
+ Last Updated on 10/10/2022 02:09:53 UTC
 <!--END_SECTION:waka-->
 
 **Connect with me**
